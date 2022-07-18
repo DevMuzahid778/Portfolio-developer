@@ -1,10 +1,27 @@
 body{font-family: 'Lato', sans-serif;
     font-family: 'Nunito', sans-serif;
     font-family: 'Poppins', sans-serif;}
-h1{font-size: 50px;}
+
+h1{font-size: 30px;}
+span{color: rgb(255, 179, 0);}
+h3{font-size: 20px;}
+
+p{font-family: 'Courier New', Courier, monospace;}
+.part1{display: flex ;}
+
+.half-width{width: 50%;
+            padding: 5%;}
 
 .pic1{height: 520px;
-width: 490px;}
+    width: 490px;}
 
+.hire-btn{
+        font-family: 'Courier New', Courier, monospace;
+        text-decoration: none;
+        background-image: linear-gradient(orange, tomato);      /* linear gradient color css attribute */
+        color: white;
+        font-weight: 700;
+        padding: 10px 40px;
+        border-radius: 5px;}
 .pic2{height: 500px;
 width: 700px;}
