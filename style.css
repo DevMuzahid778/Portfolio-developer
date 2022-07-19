@@ -1,19 +1,22 @@
 body{font-family: 'Lato', sans-serif;
     font-family: 'Nunito', sans-serif;
-    font-family: 'Poppins', sans-serif;}
+    font-family: 'Poppins', sans-serif;
+    margin: 1;}
 
 h1{font-size: 30px;}
 span{color: rgb(255, 179, 0);}
 h3{font-size: 20px;}
 
 p{font-family: 'Courier New', Courier, monospace;}
-.part1{display: flex ;}
+.part1{display: flex ;
+background-image: url(top-banner.png);
+background-repeat: no-repeat;}
 
 .half-width{width: 50%;
-            padding: 5%;}
+            padding: 6%;}
 
-.pic1{height: 520px;
-    width: 490px;}
+.pic1{   height: 520px;
+         width: 490px;}
 
 .hire-btn{
         font-family: 'Courier New', Courier, monospace;
@@ -23,5 +26,5 @@ p{font-family: 'Courier New', Courier, monospace;}
         font-weight: 700;
         padding: 10px 40px;
         border-radius: 5px;}
-.pic2{height: 500px;
-width: 700px;}
+.pic2{  height: 500px;
+        width: 700px;}
