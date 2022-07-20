@@ -49,18 +49,25 @@ margin-bottom: 80px;}
     padding: 4%;
     box-shadow: 10px 10px 40px gray;
     margin-left: 5%;
+<<<<<<< HEAD
     border-left: 7px solid;
     border-image: linear-gradient(rgb(255, 5, 105) ,tomato , rgb(67, 255, 67));
     border-image-slice: 1;
+=======
+>>>>>>> 091e2d879b160fde0b5be9b2a9e0a5913a007adc
     }
 .half-side2{width: 50%;
     padding: 4%;
     box-shadow: 10px 10px 40px gray;
     margin-left: 5%;
+<<<<<<< HEAD
     margin-right: 5%;
     border-left: 7px solid;
     border-image: linear-gradient(blue ,cyan, rgb(255, 12, 255));
     border-image-slice: 1;}
+=======
+    margin-right: 5%;}
+>>>>>>> 091e2d879b160fde0b5be9b2a9e0a5913a007adc
 .h3colr{color: orange;}
 
 .foot{color: black;
